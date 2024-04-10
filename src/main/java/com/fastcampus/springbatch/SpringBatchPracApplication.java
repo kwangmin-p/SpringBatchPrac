@@ -6,8 +6,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @Slf4j
-@EnableBatchProcessing
 @SpringBootApplication
+@EnableBatchProcessing
 public class SpringBatchPracApplication {
 
 	public static void main(String[] args) {
